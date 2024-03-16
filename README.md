@@ -1,2 +1,2 @@
-# Weather-Checker
+# Weather-API
 Climate-Checker
